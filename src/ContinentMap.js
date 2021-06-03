@@ -464,8 +464,7 @@ class Map extends React.Component{//地图
       series : [
         {
             type: 'map',
-            // mapType: 'continent',
-            
+            mapType: 'continent',
             itemStyle:{
                 normal:{
                   label:{
